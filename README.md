@@ -12,7 +12,7 @@ This repository will discuss about my personal project using kaggle dataset. If 
     * The customer is divided into two category, potential customer and priority customer
     * Machine learning model use Random Forest Classifier to label interested and not interested customer
     
-## [Project 2: Retail Customer Clustering](https://github.com/faizprakoso/Portfolio/blob/main/Retail%20Customer%20Clustering%20Project.ipynb)
+## [Project 2: Retail Customer Clustering](https://nbviewer.jupyter.org/github/faizprakoso/Portfolio/blob/main/Retail%20Customer%20Clustering%20Project.ipynb)
 - Background: Campaign team from a Retail company want to build a strategy for their new campaign
 - Problem: They can't decide what kind of strategy they will build since the characteristics is so variative. Campaign team find difficulty to cluster the customer
     * How to help campaign team clsuter the retail customer?
