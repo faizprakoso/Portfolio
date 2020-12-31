@@ -1,6 +1,6 @@
 # Portfolio
 
-## Project 1: Health Insurance Cross Sell Prediction
+## [Project 1: Health Insurance Cross Sell Prediction] (https://github.com/faizprakoso/Portfolio/blob/main/Health%20Insurance%20Cross%20Sell%20Prediction%20Project.ipynb)
 - Background: A health insurance want to expand their business to vehicle insurance. They use cross-sell strategy to sell this new service. Sales agent is appointed to succeed this strategy.
 - Problem: Sales agent find difficulty when do the cross-selling. From all of the customer that had already approached, only 12% interested in using vehicle insurance. This strategy is ineffective and inefficient.
     * How to make cross-selling strategy more effective and efficient?
