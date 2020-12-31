@@ -1,4 +1,5 @@
 # Portfolio
+This repository will discuss about my personal project using kaggle dataset. If you have any feedback, please let me know.
 
 ## [Project 1: Health Insurance Cross Sell Prediction](https://github.com/faizprakoso/Portfolio/blob/main/Health%20Insurance%20Cross%20Sell%20Prediction%20Project.ipynb)
 - Background: A health insurance want to expand their business to vehicle insurance. They use cross-sell strategy to sell this new service. Sales agent is appointed to succeed this strategy.
