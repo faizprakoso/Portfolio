@@ -19,3 +19,17 @@ This repository will discuss about my personal project using kaggle dataset. If 
 - Objective: Help campaign team to cluster the customer based on the recency, frequency and monetary (RFM). Each factor is represent by each column in table provided.
 - Result:
     * The customer is divided into 4 group based on RFM factor.
+
+## [Project 3: NBA Body Height Analysis]
+- Background: The author want to know the effect of height on the performance of a player in National Basket Association (NBA).
+- There are 3 main research questions to be discussed:
+   1. How is the height trend in NBA?
+   2. What is the correlation of height with players' performance?
+      - points per game
+      - rebounds per game
+      - assists per game
+      - Net rating
+   3. How are the height and weight of NBA top performers?
+      - Based on points, rebounds, and assist
+- Result:
+   * Height can affect the player's performance in making assists and getting rebounds. Further analysis is needed to determine what factors make a player have good points per game and net rating.
