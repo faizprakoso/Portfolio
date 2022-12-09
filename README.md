@@ -20,7 +20,7 @@ This repository will discuss about my personal project using kaggle dataset. If 
 - Result:
     * The customer is divided into 4 group based on RFM factor.
 
-## [Project 3: NBA Body Height Analysis]
+## [Project 3: NBA Body Height Analysis](https://github.com/faizprakoso/Portfolio/blob/main/NBA%20Body%20Height%20Analysis.ipynb)
 - Background: The author want to know the effect of height on the performance of a player in National Basket Association (NBA).
 - There are 3 main research questions to be discussed:
    1. How is the height trend in NBA?
